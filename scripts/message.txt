@@ -1,4 +1,5 @@
-feat(project): First Class
+feat(project): Code python done
 
-The first class about
-fuzzy Miso.
+The code was in jupyter
+notebook, but now I passed
+it to run in python.
