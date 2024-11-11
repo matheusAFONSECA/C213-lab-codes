@@ -1,5 +1,4 @@
-feat(project): Code python done
+feat(project): notebooks form classes
 
-The code was in jupyter
-notebook, but now I passed
-it to run in python.
+Notebooks of classes
+added.
